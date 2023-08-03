@@ -51,8 +51,8 @@ dependencies:
     specifier: ^3.27.0
     version: 3.27.0
   nodemailer:
-    specifier: ^6.4.11
-    version: 6.4.11
+    specifier: ^6.6.1
+    version: 6.6.1
   slugify:
     specifier: ^1.4.5
     version: 1.4.5
@@ -1258,10 +1258,9 @@ packages:
       request-promise: 4.2.6(request@2.88.2)
     dev: false
 
-  /nodemailer@6.4.11:
-    resolution: {integrity: sha512-BVZBDi+aJV4O38rxsUh164Dk1NCqgh6Cm0rQSb9SK/DHGll/DrCMnycVDD7msJgZCnmVa8ASo8EZzR7jsgTukQ==}
+  /nodemailer@6.6.1:
+    resolution: {integrity: sha512-1xzFN3gqv+/qJ6YRyxBxfTYstLNt0FCtZaFRvf4Sg9wxNGWbwFmGXVpfSi6ThGK6aRxAo+KjHtYSW8NvCsNSAg==}
     engines: {node: '>=6.0.0'}
-    requiresBuild: true
     dev: false
 
   /nodemon@2.0.4:
